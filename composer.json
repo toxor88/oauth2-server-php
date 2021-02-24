@@ -11,6 +11,7 @@
             "homepage":"http://brentertainment.com"
         }
     ],
+    "minimum-stability": "dev",
     "homepage": "http://github.com/bshaffer/oauth2-server-php",
     "autoload": {
         "psr-0": { "OAuth2": "src/" }
